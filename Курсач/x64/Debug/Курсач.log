@@ -1,2 +1,3 @@
 ﻿  Курсач.cpp
-  Курсач.vcxproj -> C:\Users\User\source\repos\Курсач\x64\Debug\Курсач.exe
+C:\Users\User\Desktop\cursachKlava\Курсач.cpp(30,1): warning C4715: getValidInput: значение возвращается не при всех путях выполнения
+  Курсач.vcxproj -> C:\Users\User\Desktop\cursachKlava\x64\Debug\Курсач.exe
